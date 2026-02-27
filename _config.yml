@@ -2,3 +2,7 @@ title: Building NewAlpha
 description: A personal dev log about building a persistent virtual world from scratch.
 theme: jekyll-theme-minimal
 markdown: kramdown
+
+show_downloads: false
+github:
+  is_project_page: false
