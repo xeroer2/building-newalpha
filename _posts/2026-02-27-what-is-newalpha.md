@@ -3,7 +3,7 @@ title: "What is NewAlpha?"
 date: 2026-02-27 09:00:00 +1100
 ---
 
-![NewAlpha wordmark](/assets/img/newalpha-wordmark.png)
+![NewAlpha wordmark]({{ "/assets/img/newalpha-wordmark.png" | relative_url }})
 
 There’s a particular feeling I’ve been chasing.
 

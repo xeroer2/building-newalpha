@@ -27,7 +27,7 @@ They’re intentionally simple. Clean. Tileable. Built for iteration.
 
 This is the beginning of NewAlpha’s visual language.
 
-![First original world textures in-engine](/assets/img/post3-01-grass.png)
+![First original world textures in-engine]({{ "/assets/img/post3-01-grass.png" | relative_url }})
 
 *First original world textures in-engine.*
 
@@ -39,7 +39,7 @@ A prototype lab-style floor was also introduced. It isn’t meant to be a final 
 
 There’s something fitting about building a world on top of a laboratory floor. NewAlpha right now is exactly that — a workshop.
 
-![The NewAlpha test environment](/assets/img/post3-02-labfloor.png)
+![The NewAlpha test environment]({{ "/assets/img/post3-02-labfloor.png" | relative_url }})
 
 *The NewAlpha test environment.*
 
@@ -53,7 +53,7 @@ These systems are still early and intentionally simple, but they represent an im
 
 NewAlpha is moving from scene editing toward world building.
 
-![Early object interaction and building tools](/assets/img/post3-03-buildtools.png)
+![Early object interaction and building tools]({{ "/assets/img/post3-03-buildtools.png" | relative_url }})
 
 *Early object interaction and building tools.*
 

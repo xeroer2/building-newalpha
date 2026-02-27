@@ -3,7 +3,7 @@ title: "How It Started"
 date: 2026-02-27 09:10:00 +1100
 ---
 
-![Godot editor — early NewAlpha project](/assets/img/post2-godot-editor.png)
+![Godot editor — early NewAlpha project]({{ "/assets/img/post2-godot-editor.png" | relative_url }})
 
 *The early NewAlpha project taking shape in Godot.*
 

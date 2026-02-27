@@ -1,5 +1,6 @@
 title: Building NewAlpha
 description: A personal dev log about building a persistent virtual world from scratch.
+author: Josh
 theme: jekyll-theme-minimal
 markdown: kramdown
 
